@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfDashBoard", "WpfDashBoard\WpfDashBoard.csproj", "{28A63FCD-D83E-472C-BA51-6BC4199A3393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletPayment", "WalletPayment\WalletPayment.csproj", "{4BD62A92-707A-409B-82F5-912F2394D9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A63FCD-D83E-472C-BA51-6BC4199A3393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A63FCD-D83E-472C-BA51-6BC4199A3393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A63FCD-D83E-472C-BA51-6BC4199A3393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A63FCD-D83E-472C-BA51-6BC4199A3393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD62A92-707A-409B-82F5-912F2394D9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD62A92-707A-409B-82F5-912F2394D9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD62A92-707A-409B-82F5-912F2394D9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD62A92-707A-409B-82F5-912F2394D9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C772AE5-3D3C-41F2-9B03-A2A546924F22}
+	EndGlobalSection
+EndGlobal
